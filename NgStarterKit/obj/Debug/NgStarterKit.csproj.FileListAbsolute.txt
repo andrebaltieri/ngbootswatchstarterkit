@@ -1,0 +1,6 @@
+C:\Users\GAtec\documents\visual studio 2013\Projects\NgStarterKit\NgStarterKit\bin\NgStarterKit.dll.config
+C:\Users\GAtec\documents\visual studio 2013\Projects\NgStarterKit\NgStarterKit\bin\NgStarterKit.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\NgStarterKit\NgStarterKit\bin\NgStarterKit.pdb
+C:\Users\GAtec\documents\visual studio 2013\Projects\NgStarterKit\NgStarterKit\obj\Debug\NgStarterKit.csprojResolveAssemblyReference.cache
+C:\Users\GAtec\documents\visual studio 2013\Projects\NgStarterKit\NgStarterKit\obj\Debug\NgStarterKit.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\NgStarterKit\NgStarterKit\obj\Debug\NgStarterKit.pdb
